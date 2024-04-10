@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Bisht</h1>
 <h3 align="center">An Aspiring Java Developer from India</h3>
-![logo](https://github.com/Deepak492001/Deepak492001/blob/main/github%20banner.png)
+<!-- ![logo](https://github.com/Deepak492001/Deepak492001/blob/main/github%20banner.png) -->
 <img align="right" width="400px" alt="coding gif" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak492001&label=Profile%20views&color=0e75b6&style=flat" alt="deepak492001" /> </p>
